@@ -18,3 +18,4 @@ if st.button('시 작성 요청하기'):
         st.write(result)
 
 # streamlit run main.py 명령어 실행
+# llama를 이용해서 rocal 에서만 사용가능
